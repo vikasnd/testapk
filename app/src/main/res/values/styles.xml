@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.JainKoshModern" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:windowBackground">@color/bg</item>
+    </style>
+</resources>
