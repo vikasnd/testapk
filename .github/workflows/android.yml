@@ -24,7 +24,7 @@ jobs:
 
       - name: Build debug APK
         run: |
-          chmod +x ./gradlew || true
+          chmod +x ./gradle || true
           ./gradlew assembleDebug
 
       - name: Upload APK
