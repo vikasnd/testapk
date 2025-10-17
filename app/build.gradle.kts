@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "org.jainkosh.modern"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "org.jainkosh.modern"
         minSdk = 21
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
     }
